@@ -27,7 +27,7 @@ Este projeto consiste em uma planilha de Excel desenvolvida para simular investi
 - Integrar reinvestimento automático dos dividendos para uma simulação mais completa.
 ## Autor
 Anna Elizabeth Parra Rausseo
-[Seu GitHub]  
+[(https://github.com/annaeparrar/DIO01)]
 ---
 ## images  
 (INFORGRAFIA.png)  
