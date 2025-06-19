@@ -30,4 +30,4 @@ Anna Elizabeth Parra Rausseo
 [Seu GitHub]  
 ---
 ## images  
-(./images/INFORGRAFIA.png)  
+(INFORGRAFIA.png)  
