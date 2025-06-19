@@ -13,7 +13,7 @@ Este projeto consiste em uma planilha de Excel desenvolvida para simular investi
 - Resumo com o total investido, patrimônio final e total de dividendos recebidos.  
 - Formatação condicional para destacar visualmente os resultados mais relevantes.
 ## Como usar a planilha
-1. Abra o arquivo `Simulador_Investimentos_FIIs.xlsx`.  
+1. Abra o arquivo Simulador_Investimentos_FIIs.xlsx `DIO01_Anna_Elizabeth_Parra_Rausseo.xlsx`.  
 2. Insira os valores desejados nas células de entrada (investimento inicial, aporte mensal, etc.).  
 3. Acompanhe a tabela com a evolução mensal do patrimônio e dos dividendos.  
 4. Consulte o resumo ao final para visualizar os resultados finais da simulação.
